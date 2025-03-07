@@ -1,6 +1,8 @@
-###Ex:01 Data Cleaning Process using Python
-##Name:Sai likitha
-##Regd.no.:212224230046
+```
+Ex:01 Data Cleaning Process using Python
+#Name:Sai likitha
+Regd.no.:212224230046
+```
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
